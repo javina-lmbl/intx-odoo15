@@ -4,8 +4,9 @@
     'description': 'Intralix module for internal processes',
     'author': 'Intralix',
     'application': True,
+    'license': "AGPL-3",
     'website': 'https://www.intralix.com',
-    'category': 'Uncategorized',
+    'category': "Services/Intralix",
     'version': '15.0.1.0.0',
     'depends': [
         'base',
