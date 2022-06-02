@@ -4,8 +4,9 @@
     'description': 'Intralix module for internal processes',
     'author': 'Intralix',
     'application': True,
+    'license': "AGPL-3",
     'website': 'https://www.intralix.com',
-    'category': 'Uncategorized',
+    'category': "Services/Intralix",
     'version': '15.0.1.0.0',
     'depends': [
         'base',
@@ -20,5 +21,14 @@
         'sale'
     ],
     'data': [
+        'security/security.xml',
+        'security/ir.model.access.csv',
+        'views/main_menu.xml',
+        'views/cellchip.xml',
+        'views/accessory.xml',
+        'views/gpsdevice.xml',
+        'views/platform_list.xml',
+        'views/subscription.xml',
+        'views/tickets.xml',
     ],
 }
