@@ -20,5 +20,14 @@
         'sale'
     ],
     'data': [
+        'security/security.xml',
+        'security/ir.model.access.csv',
+        'views/main_menu.xml',
+        'views/cellchip.xml',
+        'views/accessory.xml',
+        'views/gpsdevice.xml',
+        'views/platform_list.xml',
+        'views/subscription.xml',
+        'views/tickets.xml',
     ],
 }
