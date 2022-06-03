@@ -2,10 +2,11 @@
 {
     'name': 'lgps_notifications',
     'description': 'Intralix module for record offline notifications',
-    'author': 'Intralix',    
+    'author': 'Intralix',
+    'license': "AGPL-3",
     'website': 'https://www.intralix.com',
     'category': 'Uncategorized',
-    'version': '15.0.1.1.5',
+    'version': '15.0.1.0.0',
     'depends': [
         'base',
         'lgps'

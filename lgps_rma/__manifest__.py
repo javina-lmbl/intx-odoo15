@@ -3,6 +3,7 @@
     'name': 'lgps_rma',
     'description': 'Intralix module for track rma process with providers',
     'author': 'Intralix',
+    'license': "AGPL-3",
     'website': 'https://www.intralix.com',
     'category': 'Uncategorized',
     'version': '15.0.1.0.0',

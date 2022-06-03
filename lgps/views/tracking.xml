@@ -130,6 +130,6 @@
     <field name="res_model">lgps.tracking</field>
     <field name="view_mode">tree,form</field>
   </record>
-  
+
   <menuitem id="trackings_menu" name="Monitoreos" parent="lgps_monitoreo_menu" action="tracking_list_action" sequence="1"/>
 </odoo>
