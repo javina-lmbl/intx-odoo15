@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+
+  <record id="seq_offline_lgps_client_configuration" model="ir.sequence">
+    <field name="name">Offline Configuration Sequence</field>
+    <field name="code">lgps.client_configuration</field>
+    <field name="prefix">CONF</field>
+    <field name="padding">6</field>
+    <field name="company_id" eval="False"/>
+  </record>
+
+  <record model="ir.ui.view" id="lgps_client_configuration_form_view">
+    <field name="name">lgps_client_configuration.form</field>
+    <field name="model">lgps.client_configuration</field>
+    <field name="arch" type="xml">
+      <form string="Client Configuration Form">
+        <sheet>
+        <label for="name"/>
+            <h1>
+                <field name="name"/>
+            </h1>
+          <group>
+
+            <group>
+                <field name="client_id"/>
+                <field name="operative"/>
+                <field name="create_date"/>
+            </group>
+
+            <group>
+                <field name="priority"/>
+                <field name="staggered" attrs="{'invisible':[('priority', '==', 'desc')]}"/>
+                <field name="repeat_alerts" attrs="{'invisible':[('priority', '=', 'desc')],'required':[('repeat_alerts', '=', 'repeat')]}"/>
+                <field name="reset_options" attrs="{'invisible':['|',('priority', '=', 'desc'),('repeat_alerts', '=', 'no_repeat')],'required':[('repeat_alerts', '=', 'repeat')]}"/>
+            </group>
+          </group>
+          <notebook>
+            <page string="Rules">
+              <field name="rule_ids"/>
+            </page>
+            <page string="Contacts">
+              <field name="contact_ids" domain="[('parent_id', '=', client_id)]">
+                  <tree>
+                      <field name="name" />
+                      <field name="phone" />
+                      <field name="mobile" />
+                      <field name="email" />
+                      <field name="function" />
+                  </tree>
+              </field>
+            </page>
+          </notebook>
+        </sheet>
+
+        <div class="oe_chatter">
+          <field name="message_follower_ids" widget="mail_followers" groups="base.group_user"/>
+          <field name="activity_ids" widget="mail_activity"/>
+          <field name="message_ids" widget="mail_thread"/>
+        </div>
+      </form>
+    </field>
+  </record>
+
+  <record model="ir.ui.view" id="lgps_client_configuration_search_view">
+    <field name="name">lgps_client_configuration.search</field>
+    <field name="model">lgps.client_configuration</field>
+    <field name="arch" type="xml">
+      <search>
+          <filter string="operative" name="configurations_active"  domain="[('operative', '=', True)]"/>
+          <field name="name"/>
+          <field name="client_id"/>
+          <field name="priority"/>
+          <field name="staggered"/>
+          <field name="operative"/>
+          <field name="create_date"/>
+          <group expand="1" string="Group By">
+              <filter string="Priority" name="priority_group" context="{'group_by':'priority'}"/>
+              <separator orientation="vertical" />
+              <filter string="Created On" name="created_on_group" context="{'group_by':'create_date'}"/>
+        </group>
+      </search>
+    </field>
+  </record>
+
+  <record model="ir.ui.view" id="lgps_client_configuration_tree_view">
+    <field name="name">lgps_client_configuration.tree</field>
+    <field name="model">lgps.client_configuration</field>
+    <field name="arch" type="xml">
+      <tree string="failures Tree">
+            <field name="name"/>
+            <field name="client_id"/>
+            <field name="priority"/>
+            <field name="operative"/>
+            <field name="create_date"/>
+      </tree>
+    </field>
+  </record>
+
+  <record model="ir.actions.act_window" id="lgps_client_configuration_list_action">
+    <field name="name">lgps_client_configuration_action</field>
+    <field name="res_model">lgps.client_configuration</field>
+    <field name="view_mode">tree,form</field>
+  </record>
+
+      <menuitem
+            id="lgps_client_configuration_menu"
+            name="Client Configurations"
+            parent="offline_notifications_menu"
+            action="lgps_client_configuration_list_action"
+    />
+</odoo>

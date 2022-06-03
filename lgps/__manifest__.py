@@ -42,5 +42,7 @@
         'views/accessory_history.xml',
         'views/device_history.xml',
         'views/partner.xml',
+        'views/tracking.xml',
+        'views/tracking_logs.xml',
     ],
 }
