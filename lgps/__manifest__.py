@@ -23,6 +23,9 @@
     'data': [
         'security/security.xml',
         'security/ir.model.access.csv',
+        'reports/devices.xml',
+        'reports/suscriptions_detail.xml',
+        'reports/suscription_detail_condensed.xml',
         'wizard/assign_accessories_wizard.xml',
         'wizard/accessories_operations_wizard.xml',
         'wizard/devices_operations_wizard.xml',
