@@ -233,7 +233,7 @@ class GpsDevice(models.Model):
         string=_("Cellchip Number"),
         ondelete='set null',
         required=False,
-        track_visibility='onchange',
+        tracking=True
     )
 
     product_id = fields.Many2one(

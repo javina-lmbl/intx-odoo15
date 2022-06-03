@@ -1,0 +1,3316 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* lgps
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 15.0+e\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-02 21:49+0000\n"
+"PO-Revision-Date: 2022-06-02 21:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__01
+msgid "01"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__02
+msgid "02"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__03
+msgid "03"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__04
+msgid "04"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__05
+msgid "05"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__06
+msgid "06"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__07
+msgid "07"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__08
+msgid "08"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__09
+msgid "09"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__10
+msgid "10"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__100kb
+msgid "100KB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__100mb
+msgid "100MB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__10gb
+msgid "10GB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__10mb
+msgid "10MB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__11
+msgid "11"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__term__12
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__12
+msgid "12"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__warranty_term__12
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__warranty_term__12
+#, python-format
+msgid "12 months"
+msgstr "12 meses"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__13
+msgid "13"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__14
+msgid "14"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__15
+msgid "15"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__15mb
+msgid "15MB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__16
+msgid "16"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__17
+msgid "17"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__term__18
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__18
+msgid "18"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__warranty_term__18
+#, python-format
+msgid "18 months"
+msgstr "18 meses"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__19
+msgid "19"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__1gb
+msgid "1GB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__1mb
+msgid "1MB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__20
+msgid "20"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__20kb
+msgid "20KB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__21
+msgid "21"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__22
+msgid "22"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__23
+msgid "23"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__term__24
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__24
+msgid "24"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__warranty_term__24
+#, python-format
+msgid "24 months"
+msgstr "24 meses"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__25
+msgid "25"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__26
+msgid "26"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__27
+msgid "27"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__28
+msgid "28"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__29
+msgid "29"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__2mb
+msgid "2MB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__30
+msgid "30"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__sale_subscription__billing_cycle__31
+msgid "31"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__warranty_term__36
+#, python-format
+msgid "36 months"
+msgstr "36 meses"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__3gb
+msgid "3GB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__3mb
+msgid "3MB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__500mb
+msgid "500MB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__5gb
+msgid "5GB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__plan__5mb
+msgid "5MB"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__att
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "ATT"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+msgid "Accesorio(s) Seleccionado(s):"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Accesorios"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+msgid "Accesorios sustituido"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/assign_accesories_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard__accessory_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__accessory_ids
+#: model:ir.ui.menu,name:lgps.accessory_menu
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+#, python-format
+msgid "Accessories"
+msgstr "Accesorios"
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.launch_action_view_accessories_operations_wizard
+msgid "Accessories Common Operations"
+msgstr "Operaciones con Accesorios"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__accessories_count
+#, python-format
+msgid "Accessories Count"
+msgstr "Total de Accesorios"
+
+#. module: lgps
+#: model:ir.ui.menu,name:lgps.accessory_history_menu
+msgid "Accessories History"
+msgstr "Historial de Accesorios"
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_accessory_history
+msgid "Accessories Log History"
+msgstr "Accesorios: Historial"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+msgid "Accessories to Process"
+msgstr "Accesorios a procesar"
+
+#. module: lgps
+#: code:addons/lgps/models/helptickets.py:0
+#: model:ir.model.fields,field_description:lgps.field_helpdesk_ticket__accessory_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__accessories_ids
+#, python-format
+msgid "Accessory"
+msgstr "Accesorio"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_form_view
+msgid "Accessory Form"
+msgstr "Formulario de Accesorios"
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.accessory_history_list_action
+msgid "Accessory History"
+msgstr "Historial de accesorios"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_history_form_view
+msgid "Accessory History Form"
+msgstr "Formulario de Historial de Accesorios"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_history_form_view
+msgid "Accessory Info"
+msgstr "Información de Accesorio"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_needaction
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_needaction
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_needaction
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_needaction
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_needaction
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_needaction
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_needaction
+msgid "Action Needed"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activation_date
+#, python-format
+msgid "Activation Date"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0 code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__active
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__active
+#, python-format
+msgid "Active"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_ids
+msgid "Activities"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_exception_decoration
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_exception_decoration
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_exception_decoration
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_exception_decoration
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_exception_decoration
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_exception_decoration
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_exception_decoration
+msgid "Activity Exception Decoration"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_state
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_state
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_state
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_state
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_state
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_state
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_state
+msgid "Activity State"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_type_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_type_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_type_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_type_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_type_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_type_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_type_icon
+msgid "Activity Type Icon"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__status__active
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__active
+msgid "Activo"
+msgstr ""
+
+#. module: lgps
+#: model:ir.ui.menu,name:lgps.lgps_menu
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+#: model_terms:ir.ui.view,arch_db:lgps.platform_list_search_view
+msgid "Activos"
+msgstr ""
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.launch_accessories_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.wizard_form_view
+msgid "Add Accessories"
+msgstr "Agregar Accesorios"
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_assign_accessories_wizard
+msgid "Add Accessories to Devices"
+msgstr "Asignar Accesorios a Dispositivos GPS"
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0 code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__after_sales
+#: model:ir.model.fields,field_description:lgps.field_res_users__after_sales
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_type__aftersales
+#, python-format
+msgid "After Sales"
+msgstr "Post Venta"
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__add_reactivate
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__operation_mode__add_reactivate
+#, python-format
+msgid "Alta / Reactivación Equipo"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reactivation_reason__op1
+#, python-format
+msgid "Alta de equipo para pedido de venta"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reactivation_reason__op2
+#, python-format
+msgid "Alta de equipo para pruebas"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__anti_jammer_blocker
+#, python-format
+msgid "Anti Jammer Blocker"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_history_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.device_history_form_view
+msgid "Aplicado A"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__client_id
+msgid "Asignada a"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.wizard_form_view
+msgid "Assign"
+msgstr "Asignar"
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#, python-format
+msgid "Assigned to"
+msgstr "Asignado a"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_attachment_count
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_attachment_count
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_attachment_count
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_attachment_count
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_attachment_count
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_attachment_count
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_attachment_count
+msgid "Attachment Count"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__backup
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__backup
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__backup
+#, python-format
+msgid "Backup"
+msgstr "Respaldo"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Baja"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__drop
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__operation_mode__drop
+#, python-format
+msgid "Baja de Equipos"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__financial_debts
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__financial_debts
+#, python-format
+msgid "Baja por falta de pago"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_sale_subscription__billing_cycle
+msgid "Billing Cycle"
+msgstr "Ciclo de Facturación"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__blocker
+#, python-format
+msgid "Blocker"
+msgstr "Bloqueador"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__draft
+msgid "Borrador"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__borrowed
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__borrowed
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__borrowed
+#, python-format
+msgid "Borrowed"
+msgstr "Prestado"
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__platform_change
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__platform_change
+#, python-format
+msgid "Cambio de plataforma Intralix"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__change_of_supplier
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__change_of_supplier
+#, python-format
+msgid "Cambio de proveedor por precio"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_mass_device_comment_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.wizard_form_view
+msgid "Cancel"
+msgstr "Cancelar"
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__financial_situation
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__financial_situation
+#, python-format
+msgid "Cancelación de cuenta por falta de pago"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__status__cancelled
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__cancelled
+msgid "Cancelado"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0 code:addons/lgps/models/partner.py:0
+#, python-format
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__ceiba2
+msgid "Ceiba2"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_form_view
+msgid "Cellchip Form"
+msgstr "Formulario de Línea"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_form_view
+msgid "Cellchip Info"
+msgstr "Información de la línea"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__cellchip_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__cellchip_id
+#, python-format
+msgid "Cellchip Number"
+msgstr "Número de Línea"
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__cellchip_owner_id
+#, python-format
+msgid "Cellchip Owner"
+msgstr "Propietario"
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.cellchip_list_action
+#: model:ir.ui.menu,name:lgps.cellchips_menu
+msgid "Cellchips"
+msgstr "Líneas"
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__cellchips_list
+#, python-format
+msgid "Cellchips List"
+msgstr "Lista de Líneas"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_tree_view
+msgid "Cellchips Tree"
+msgstr "Lista de Líneas"
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_cellchip
+msgid "Cellchips model"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Chatter Messages"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__cierto
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Cierto"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__ciertot
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "CiertoT"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__client_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__client_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__client_id
+#, python-format
+msgid "Client"
+msgstr "Cliente"
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__client_status
+#: model:ir.model.fields,field_description:lgps.field_res_users__client_status
+#, python-format
+msgid "Client Status"
+msgstr "Estatus del Cliente"
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__client_type
+#: model:ir.model.fields,field_description:lgps.field_res_users__client_type
+#, python-format
+msgid "Client Type"
+msgstr "Tipo de Cliente"
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__client_rating
+#: model:ir.model.fields,field_description:lgps.field_res_users__client_rating
+#, python-format
+msgid "Client rating"
+msgstr "Clasificación de Cliente"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Cliente"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/helptickets.py:0
+#: model:ir.model.fields,field_description:lgps.field_helpdesk_ticket__closed_date
+#, python-format
+msgid "Closed Date"
+msgstr "Fecha de Cierre"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__collective
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__collective
+#, python-format
+msgid "Collective"
+msgstr "Colectivo"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard__comment
+msgid "Comentario"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_mass_device_comment_wizard
+msgid "Comentario / Falla Presentada"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_history_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.device_history_form_view
+msgid "Comentarios"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/mass_device_comment_wizard.py:0
+#, python-format
+msgid "Comment"
+msgstr "Comentarios"
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_accessories_operations_wizard
+msgid "Common Operations To Accessories Wizard"
+msgstr "Operaciones con Accesorios"
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_devices_operations_wizard
+msgid "Common Operations To Devices Wizard"
+msgstr "Operaciones con Dispositivos"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__comodato
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__comodato
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__comodato
+#, python-format
+msgid "Comodato"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Comodatos"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Complementos"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_res_config_settings
+msgid "Config Settings"
+msgstr "Opciones de configuración"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Configuración / Proceso de Alta / Reactivación"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Configuración / Proceso de Hibernación de Equipos"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Configuración / Proceso de Reemplazo de Equipos"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Configuración / Proceso de Sustitución de Equipos"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Configuración / Proceso para Equipos en Baja"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Configuración General para operaciones de Equipos / Accesorios"
+msgstr ""
+
+#. module: lgps
+#: model:ir.ui.menu,name:lgps.lgps_configuration_menu
+msgid "Configuration"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_res_partner
+msgid "Contact"
+msgstr "Contacto"
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__coordinator
+#: model:ir.model.fields,field_description:lgps.field_res_users__coordinator
+#, python-format
+msgid "Coordination"
+msgstr "Coordinación"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__courtesy
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__courtesy
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__courtesy
+#, python-format
+msgid "Courtesy"
+msgstr "cortesía"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard__create_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard__create_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__credit_and_collection
+#: model:ir.model.fields,field_description:lgps.field_res_users__credit_and_collection
+#, python-format
+msgid "Credit and collection"
+msgstr "Crédito y Cobranza"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Cuando un equipo sea hibernado la suscripción se generará en esta etapa."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Cuando un equipo sea hibernado la suscripción será creada con esta lista de "
+"precios."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Cuando un equipo sea hibernado la suscripción será creada con este equipo de"
+" ventas."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Cuando un equipo sea hibernado la suscripción será creada con este "
+"responsble."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Cuando un equipo sea hibernado la suscripción será creada con este servicio."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Cuando un equipo sea hibernado las suscripciones que tenga asociadas serán "
+"colocadas en esta etapa."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__custom_negotiations
+#: model:ir.model.fields,field_description:lgps.field_res_users__custom_negotiations
+#: model_terms:ir.ui.view,arch_db:lgps.partner_instructor_form_view
+#, python-format
+msgid "Custom Negotiations"
+msgstr "Negociaciones Especiales"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__cybermapa
+msgid "Cybermapa"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/dolar_history.py:0
+#, python-format
+msgid "Date"
+msgstr "Fecha"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__datetime_gps
+#, python-format
+msgid "DateTime GPS"
+msgstr "Fecha GPS"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__datetime_server
+#, python-format
+msgid "DateTime Server"
+msgstr "Fecha de Servidor"
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__add_reactivation_channel_id
+#, python-format
+msgid "Default Add/Reactivation Channel"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Default Current Subscriptions Stage when Hibernation"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__lgps_default_channel_id
+#, python-format
+msgid "Default Drop Channel"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__hibernate_channel_id
+#, python-format
+msgid "Default Hibernate Channel"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__subscription_hibernate_commercial_id
+#, python-format
+msgid "Default Hibernate Commercial Team"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__subscription_hibernate_product_id
+#, python-format
+msgid "Default Hibernate Service"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__subscription_hibernate_stage_id_currents
+#, python-format
+msgid "Default Hibernate Stage Current Subscriptions"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__subscription_hibernate_default_price_list_id
+#, python-format
+msgid "Default Hibernate Subscription Price List"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__subscription_hibernate_stage_id
+#, python-format
+msgid "Default Hibernate Subscription Stage"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__subscription_hibernate_user_id
+#, python-format
+msgid "Default Hibernate Subscription User"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__subscription_hibernate_template_id
+#, python-format
+msgid "Default Hibernate Template"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__repairs_default_price_list_id
+#, python-format
+msgid "Default Repairs Subscription Price List"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__replacement_channel_id
+#, python-format
+msgid "Default Replacements Channel"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Default Subscriptions Commercial Team on Hibernation"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Default Subscriptions Price List on Hibernation"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Default Subscriptions Product on Hibernation"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Default Subscriptions Responsable on Hibernation"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Default Subscriptions Stage on Hibernation"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/res_config_settings.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_config_settings__substitution_channel_id
+#, python-format
+msgid "Default Substitutions Channel"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Default Template for Subscriptions on Hibernation"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0 code:addons/lgps/models/partner.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__demo
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__demo
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__demo
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__demo
+#, python-format
+msgid "Demo"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Demos"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__wakeup
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__operation_mode__wakeup
+#, python-format
+msgid "Deshibernación de Equipos"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_form_view
+msgid "Device"
+msgstr "Dispositivo"
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.launch_action_view_devices_operations_wizard
+msgid "Device Common Operations"
+msgstr "Operaciones con Dispositivos"
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.device_history_list_action
+msgid "Device History"
+msgstr "Hitorial de Dispositivo"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.device_history_form_view
+msgid "Device History Form"
+msgstr "Formulario de Historial de Dispositivo"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.device_history_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Device Info"
+msgstr "Información del Dispositivo"
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.launch_action_view_mass_device_comment_wizard
+msgid "Device Mass Comments"
+msgstr "Comentario a Dispositivos"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__device_pin
+#, python-format
+msgid "Device PIN"
+msgstr "PIN del equipo"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.partner_instructor_form_view
+msgid "Devices"
+msgstr "Dispositivos"
+
+#. module: lgps
+#: model:ir.ui.menu,name:lgps.device_history_menu
+msgid "Devices History"
+msgstr "Historial de Dispositivos"
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_device_history
+msgid "Devices History operations"
+msgstr "Historial de Dispositivos "
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__devices_list
+#, python-format
+msgid "Devices List"
+msgstr "Lista de dispositivos"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__disengagement_sensor
+#, python-format
+msgid "Disengagement Sensor"
+msgstr "Sensor de desenganche"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard__display_name
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__name
+#, python-format
+msgid "Dispositivo GPS"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_mass_device_comment_wizard
+msgid "Dispositivo(s) Seleccionado(s):"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_dolar_history
+msgid "Dolar Change history"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.dolar_history_form_view
+msgid "Dolar History Form"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#, python-format
+msgid "Draft"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__drop
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__drop
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__drop
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__drop
+#, python-format
+msgid "Drop"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_mass_device_comment_wizard
+msgid "Drop Process"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__fuel_hall
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__fuel_hall
+#, python-format
+msgid "Efecto Hall"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__electronics
+#, python-format
+msgid "Electronics"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__on_stock_not_assigned
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__on_stock_not_assigned
+#, python-format
+msgid "En almacén Intralix sin asignación"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__end_forced_plan_date
+#, python-format
+msgid "End Forced Plan Date"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reactivation_reason__op4
+#, python-format
+msgid "Equipo como préstamo"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reactivation_reason__op3
+#, python-format
+msgid "Equipo como respaldo"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__non_repairable
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__non_repairable
+#, python-format
+msgid "Equipo gps no reparable"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__own_warehouse
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__own_warehouse
+#, python-format
+msgid "Error administrativo"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__status
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__status
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__device_status
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__status
+msgid "Estado"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Estatus"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/dolar_history.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__conversion_rate
+#, python-format
+msgid "Exchange Rate"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_mass_device_comment_wizard
+msgid "Execute Process"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.partner_instructor_form_view
+msgid "Executives"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid "External"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__external
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__external
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__external
+msgid "Externo"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__registered_date
+msgid "Fecha"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Fecha Compra"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Fecha Instalación"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Fin de Garantía"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__financially_charged
+#, python-format
+msgid "Financially Charged"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__first_installation_day
+#: model:ir.model.fields,field_description:lgps.field_res_users__first_installation_day
+#, python-format
+msgid "First Installation Day"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__fleetrun
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__fleetrun
+#, python-format
+msgid "Fleetrun"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_follower_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_follower_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_follower_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_follower_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_follower_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_follower_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_follower_ids
+msgid "Followers"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_partner_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_partner_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_partner_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_partner_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_partner_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_partner_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_partner_ids
+msgid "Followers (Partners)"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__activity_type_icon
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__activity_type_icon
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__activity_type_icon
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__activity_type_icon
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__activity_type_icon
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__activity_type_icon
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__activity_type_icon
+msgid "Font awesome icon e.g. fa-tasks"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__for_installing
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__for_installing
+#, python-format
+msgid "For Installing"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__fuel
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__fuel
+#, python-format
+msgid "Fuel"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Funciones"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_form_view
+msgid "GPS Device"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__gpsdevice_id
+msgid "GPS Device where the cellchip is on."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_mass_device_comment_wizard
+msgid "GPS Devices to Process"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/custom_task.py:0
+#: code:addons/lgps/models/helptickets.py:0
+#: code:addons/lgps/models/subscriptions.py:0
+#: code:addons/lgps/wizard/assign_accesories_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_helpdesk_ticket__gpsdevice_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__accessory_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard__gpsdevice_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__gpsdevice_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__gpsdevice_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard__gpsdevice_ids
+#: model:ir.model.fields,field_description:lgps.field_project_task__gpsdevice_id
+#: model:ir.model.fields,field_description:lgps.field_sale_subscription__gpsdevice_id
+#, python-format
+msgid "Gps Device"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Gps Device Form"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields,field_description:lgps.field_res_partner__gpsdevice_ids
+#: model:ir.model.fields,field_description:lgps.field_res_users__gpsdevice_ids
+#: model:ir.ui.menu,name:lgps.gps_devices_menu
+#, python-format
+msgid "Gps Devices"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_accessory
+msgid "Gps Devices Accessories"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.platform_list_form_view
+msgid "Gps Platform list Form"
+msgstr ""
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.gpsdevice_list_action
+msgid "GpsDevices"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_tree_view
+#: model_terms:ir.ui.view,arch_db:lgps.partner_instructor_form_view
+msgid "GpsDevices Tree"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Group By"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__gurtam
+msgid "Gurtam"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__gurtam_utrax
+msgid "Gurtam/Utrax"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__has_message
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__has_message
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__has_message
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__has_message
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__has_message
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__has_message
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__has_message
+msgid "Has Message"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_helpdesk_ticket
+msgid "Helpdesk Ticket"
+msgstr "Ticket de servicio de asistencia"
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__hibernation
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__operation_mode__hibernation
+#, python-format
+msgid "Hibernación de Equipos"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__hibernate
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__hibernate
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__hibernate
+#, python-format
+msgid "Hibernate"
+msgstr ""
+
+#. module: lgps
+#: model:ir.ui.menu,name:lgps.lgps_operation_logs_root_conf_menu
+msgid "Historial"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__iccid
+#, python-format
+msgid "ICCID"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard__id
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__id
+msgid "ID"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__idf
+#, python-format
+msgid "IDF"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__imei
+#, python-format
+msgid "IMEI"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_exception_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_exception_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_exception_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_exception_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_exception_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_exception_icon
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_exception_icon
+msgid "Icon"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__activity_exception_icon
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__activity_exception_icon
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__activity_exception_icon
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__activity_exception_icon
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__activity_exception_icon
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__activity_exception_icon
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__activity_exception_icon
+msgid "Icon to indicate an exception activity."
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__message_needaction
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__message_unread
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__message_needaction
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__message_unread
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__message_needaction
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__message_unread
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__message_needaction
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__message_unread
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__message_needaction
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__message_unread
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__message_needaction
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__message_unread
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__message_needaction
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__message_unread
+msgid "If checked, new messages require your attention."
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__message_has_error
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__message_has_sms_error
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__message_has_error
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__message_has_sms_error
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__message_has_error
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__message_has_sms_error
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__message_has_error
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__message_has_sms_error
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__message_has_error
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__message_has_sms_error
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__message_has_error
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__message_has_sms_error
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__message_has_error
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__message_has_sms_error
+msgid "If checked, some messages have a delivery error."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__inactive
+#, python-format
+msgid "Inactive"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+msgid "Ingresa la información requerida para el proceso selecionado:"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__installation_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__installation_date
+#, python-format
+msgid "Installation Date"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__installed
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__installed
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__installed
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_form_view
+#, python-format
+msgid "Installed"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/cellchip.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__gpsdevice_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__gpsdevice_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__client_id
+#, python-format
+msgid "Installed On"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/models/dolar_history.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__name
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__name
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__name
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__name
+#, python-format
+msgid "Internal Id"
+msgstr ""
+
+#. module: lgps
+#: model:ir.ui.menu,name:lgps.main_lgps_menu
+msgid "Intralix"
+msgstr ""
+
+#. module: lgps
+#: model:ir.module.category,name:lgps.module_lgps_category
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Intx"
+msgstr ""
+
+#. module: lgps
+#: model:res.groups,name:lgps.lgps_group_guest
+msgid "Intx / Guest"
+msgstr ""
+
+#. module: lgps
+#: model:res.groups,name:lgps.lgps_group_maintainer
+msgid "Intx / Maintainer"
+msgstr ""
+
+#. module: lgps
+#: model:res.groups,name:lgps.lgps_group_manager
+msgid "Intx / Manager"
+msgstr ""
+
+#. module: lgps
+#: model:res.groups,name:lgps.lgps_group_user
+msgid "Intx / User"
+msgstr ""
+
+#. module: lgps
+#: model:res.groups,name:lgps.lgps_group_wizard_manager
+msgid "Intx / Wizards "
+msgstr ""
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_gpsdevice
+msgid "Intx Gps Devices Internal Module"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_platform_list
+msgid "Intx Gps Devices Platforms List Module"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__inventory
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__inventory
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__inventory
+#, python-format
+msgid "Inventory"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__irrecoverable
+#, python-format
+msgid "Irrecoverable"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_is_follower
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_is_follower
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_is_follower
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_is_follower
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_is_follower
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_is_follower
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_is_follower
+msgid "Is Follower"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__iusacell
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Iusacell"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard____last_update
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list____last_update
+msgid "Last Modified on"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__last_position
+#, python-format
+msgid "Last Position"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__last_report
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+#, python-format
+msgid "Last Report"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard__write_uid
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__write_uid
+msgid "Last Updated by"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_assign_accessories_wizard__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_mass_device_comment_wizard__write_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__write_date
+msgid "Last Updated on"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__line_account
+#, python-format
+msgid "Line Account"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__name
+#, python-format
+msgid "Line Number"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__term
+#, python-format
+msgid "Line Terms"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__lkgps
+msgid "Lkgps"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.device_history_form_view
+msgid "Log"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__logistic
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__logistic
+#, python-format
+msgid "Logistic"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_main_attachment_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_main_attachment_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_main_attachment_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_main_attachment_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_main_attachment_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_main_attachment_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_main_attachment_id
+msgid "Main Attachment"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__bad_service
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__bad_service
+#, python-format
+msgid "Mal Servicio"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Mapa"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__mapaloc
+msgid "Mapaloc"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_lgps_mass_device_comment_wizard
+msgid "Mass Comments To Devices Wizard"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__major_account
+#, python-format
+msgid "Mayor Accounte"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__maztiempo
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "MazTiempo"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_has_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_has_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_has_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_has_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_has_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_has_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_has_error
+msgid "Message Delivery error"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_ids
+msgid "Messages"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__microphone
+#, python-format
+msgid "Microphone"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__log_msn
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_history_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.device_history_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+#, python-format
+msgid "More Info"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__reactivation_reason
+#, python-format
+msgid "Motivo del Alta / Reactivación"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__movistar
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Movistar"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__my_activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__my_activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__my_activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__my_activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__my_activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__my_activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__my_activity_date_deadline
+msgid "My Activity Deadline"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/partner.py:0 code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__negotiation
+#, python-format
+msgid "Negotiation"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/models/dolar_history.py:0
+#: code:addons/lgps/models/gpsdevice.py:0 code:addons/lgps/models/partner.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid "New"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_calendar_event_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_calendar_event_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_calendar_event_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_calendar_event_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_calendar_event_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_calendar_event_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_calendar_event_id
+msgid "Next Activity Calendar Event"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_date_deadline
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_date_deadline
+msgid "Next Activity Deadline"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_summary
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_summary
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_summary
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_summary
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_summary
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_summary
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_summary
+msgid "Next Activity Summary"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_type_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_type_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_type_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_type_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_type_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_type_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_type_id
+msgid "Next Activity Type"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/models/subscriptions.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__nick
+#: model:ir.model.fields,field_description:lgps.field_sale_subscription__gpsdevice_nick
+#, python-format
+msgid "Nick"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__novit
+msgid "Novit"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__new
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__new
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__new
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_type__new
+msgid "Nuevo"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_needaction_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_needaction_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_needaction_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_needaction_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_needaction_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_needaction_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_needaction_counter
+msgid "Number of Actions"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_has_error_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_has_error_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_has_error_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_has_error_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_has_error_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_has_error_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_has_error_counter
+msgid "Number of errors"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__message_needaction_counter
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__message_needaction_counter
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__message_needaction_counter
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__message_needaction_counter
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__message_needaction_counter
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__message_needaction_counter
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__message_needaction_counter
+msgid "Number of messages which requires an action"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__message_has_error_counter
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__message_has_error_counter
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__message_has_error_counter
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__message_has_error_counter
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__message_has_error_counter
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__message_has_error_counter
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__message_has_error_counter
+msgid "Number of messages with delivery error"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__message_unread_counter
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__message_unread_counter
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__message_unread_counter
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__message_unread_counter
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__message_unread_counter
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__message_unread_counter
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__message_unread_counter
+msgid "Number of unread messages"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/helptickets.py:0
+#: model:ir.model.fields,field_description:lgps.field_helpdesk_ticket__days_count
+#, python-format
+msgid "Open Days"
+msgstr "Días abiertos"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__opening_sensor
+#, python-format
+msgid "Opening Sensor"
+msgstr "Sensor de Apertura"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__operation_mode
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__operation_mode
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__operation_mode
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__operation_mode
+msgid "Operation Mode"
+msgstr "Modo de Operación"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__comment
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__comment
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__comment
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__comment
+#, python-format
+msgid "Operation Reason"
+msgstr "Razón"
+
+#. module: lgps
+#: model:ir.ui.menu,name:lgps.lgps_operations_menu
+msgid "Operations"
+msgstr "Operaciones"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__padlock
+#, python-format
+msgid "Padlock"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Pick a Default Add / Replacement Channel"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Pick a Default Price List For RMA Odt records"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Pick a Default Replacements Channel"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Pick a Default Substitutions Channel"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Pick a Drop Default Channel"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Pick a Hibernate Default Channel"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__plan
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Plan"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Plataforma"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/platform_list.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__platform
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__name
+#, python-format
+msgid "Platform"
+msgstr "Plataforma"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.platform_list_form_view
+msgid "Platform Info"
+msgstr "Información de Plataforma"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.actions.act_window,name:lgps.platform_list_action
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__platform_list_id
+#: model:ir.ui.menu,name:lgps.platform_list_menu
+#, python-format
+msgid "Platform List"
+msgstr "Listado de Plataformas"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.platform_list_tree_view
+msgid "Platform List Tree"
+msgstr "Plataformas"
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__replacement
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__replacement
+#, python-format
+msgid "Por reemplazo de Equipo"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Posicionamiento"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__position_logic
+msgid "Position Logic"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_mass_device_comment_wizard
+msgid "Procesando para"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_form_view
+msgid "Product"
+msgstr "Producto"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__product_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__product_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__product_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__product_id
+#, python-format
+msgid "Product Type"
+msgstr "Tipo de Producto"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Producto"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__prossea
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Prossea"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Proveedor"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__provider
+msgid "Provider"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_form_view
+msgid "Provider Info"
+msgstr "Información de Proveedor"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__provider_invoice
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__invoice_id
+#, python-format
+msgid "Provider Invoice"
+msgstr "Factura de Proveedor"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__tests
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__tests
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__tests
+msgid "Pruebas"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/cellchip.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__purchase_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__purchase_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__purchase_date
+#, python-format
+msgid "Purchase Date"
+msgstr "Fecha de Compra"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__rma
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__rma
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__rma
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+#, python-format
+msgid "RMA"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__ready
+#, python-format
+msgid "Ready to Install"
+msgstr "Listao para Instalación"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__reason
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__reason
+msgid "Reason"
+msgstr "Razón"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.dolar_history_form_view
+msgid "Record Info"
+msgstr "Información del Registro"
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__loan_substitution
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__operation_mode__loan_substitution
+#, python-format
+msgid "Reemplazo de Comodato"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory_history__operation_mode__replacement
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__replacement
+#, python-format
+msgid "Reemplazo de Equipo"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__accreplacement
+#, python-format
+msgid "Reemplazo de accesorio"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessories_operations_wizard__operation_mode__replacement
+#, python-format
+msgid "Reemplazo de accesorio por garantía"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__operation_mode__replacement
+#, python-format
+msgid "Reemplazo de equipo por garantía"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__return_from_loan
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__return_from_loan
+#, python-format
+msgid "Regresa a Almacén Estuvo en Comodato"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__return_to_stock
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__return_to_stock
+#, python-format
+msgid "Regresa a Almacén Respaldo/Provisional/Prestado"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/helptickets.py:0
+#: model:ir.model.fields,field_description:lgps.field_helpdesk_ticket__ticket_id
+#, python-format
+msgid "Related Ticket"
+msgstr "Ticket Asociado"
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__status__replaced
+#, python-format
+msgid "Replaced"
+msgstr "Reemplazado"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__replacement
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__replacement
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__replacement
+#, python-format
+msgid "Replacement"
+msgstr "Reemplazo"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__requested_by
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__requested_by
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__requested_by
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__requested_by
+#, python-format
+msgid "Requested by"
+msgstr "Solicitado por"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__activity_user_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__activity_user_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__activity_user_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__activity_user_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__activity_user_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__activity_user_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__activity_user_id
+msgid "Responsible User"
+msgstr "Responsable"
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reactivation_reason__op5
+#, python-format
+msgid "Revisión de equipo"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__linenumber_id
+#, python-format
+msgid "SIMCARD"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_has_sms_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_has_sms_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_has_sms_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_has_sms_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_has_sms_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_has_sms_error
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_has_sms_error
+msgid "SMS Delivery error"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__scanner
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__scanner
+msgid "Scanner"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "See on the Map"
+msgstr "Ver en el mapa"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Selecciona el canal de comunicación que será utilizado por default para "
+"enviar notificaciones de las bajas de equipos"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Selecciona el canal de comunicación que será utilizado por default para "
+"enviar notificaciones de los equipos que son hibernados / deshibernados."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Selecciona el canal que será utilizado para notificar alta o reactivación de"
+" equipos."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Selecciona el canal que será utilizado para notificar reemplazos de equipos."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Selecciona el canal que será utilizado para notificar sustituciones de "
+"equipos."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+msgid "Selecciona el proceso a ejecutar en los accesorios seleccionados:"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+msgid "Selecciona el proceso a ejecutar en los equipos seleccionados:"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid ""
+"Selecciona el template que será utilizado para crear una suscripcion de "
+"hibernación cuando el equipo entre en este estatus."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.res_config_settings_view_form
+msgid "Selecciona la lista de precios a itilizar al crear ODT de RMA."
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+msgid "Selecciona los servicios que serán reactivados en los dispositivos"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/mass_device_comment_wizard.py:0
+#, python-format
+msgid "Select at least one record."
+msgstr "Selecciona al menos un registro"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__serialnumber_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__serialnumber_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__serialnumber_id
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__serialnumber_id
+#, python-format
+msgid "Serial Number"
+msgstr "Número de Serie"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+msgid "Services"
+msgstr "Servicios"
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.lgps_config_settings_action
+#: model:ir.ui.menu,name:lgps.lgps_settings_menu
+msgid "Settings"
+msgstr "Configuraciones"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__sheet
+#, python-format
+msgid "Sheet"
+msgstr "Hoja"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__simpacsys
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Simpacsys"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__client_warehouse
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__client_warehouse
+#, python-format
+msgid "Sin uso, en resguardo con el cliente"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__skywave
+msgid "Skywave"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__smart_blocker
+#, python-format
+msgid "Smart Blocker"
+msgstr "Bloqueador Inteligente"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__solar_panel
+#, python-format
+msgid "Solar Panel"
+msgstr "Panel Solar"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__sold
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__sold
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__sold
+#, python-format
+msgid "Sold"
+msgstr "Vendido"
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reactivation_reason__op6
+#, python-format
+msgid "Solicitud de reactivación"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#, python-format
+msgid ""
+"Some accessories does not has the right status for this operation.\n"
+"\n"
+" "
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"Some devices does not has the right status for this operation.\n"
+"\n"
+" "
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__sosgps
+msgid "Sosgps"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__speaker
+#, python-format
+msgid "Speaker"
+msgstr "Bocina"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/cellchip.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid "Status"
+msgstr "Estatus"
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__status_date
+#, python-format
+msgid "Status Date"
+msgstr "Fecha de Estatus"
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__days_suspended
+#, python-format
+msgid "Status Elpased Days"
+msgstr "Días transcurridos"
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__activity_state
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__activity_state
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__activity_state
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__activity_state
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__activity_state
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__activity_state
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__activity_state
+msgid ""
+"Status based on activities\n"
+"Overdue: Due date is already passed\n"
+"Today: Activity date is today\n"
+"Planned: Future activities."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model,name:lgps.model_sale_subscription
+#, python-format
+msgid "Subscription"
+msgstr "Suscripción"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.actions.act_window,name:lgps.action_counter_subscriptions_button
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+#, python-format
+msgid "Subscriptions"
+msgstr "Subscripciones"
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__destination_accessories_ids
+#, python-format
+msgid "Substitute accessory"
+msgstr "Accesorio que sustituye"
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__destination_accessory_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__destination_gpsdevice_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__destination_gpsdevice_ids
+#, python-format
+msgid "Substitute equipment"
+msgstr "Equipo sustituto"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__subscriptions_count
+msgid "Suscripciones"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__subscription_id
+msgid "Suscripción"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0 code:addons/lgps/models/partner.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__status__suspended
+#: model:ir.model.fields.selection,name:lgps.selection__res_partner__client_status__suspended
+#, python-format
+msgid "Suspended"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__accsubstitution
+#, python-format
+msgid "Sustitución de accesorio por revisión"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory_history__operation_mode__substitution
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__operation_mode__substitution
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__operation_mode__substitution
+#, python-format
+msgid "Sustitución de equipo por revisión"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessories_operations_wizard__operation_mode__substitution
+#, python-format
+msgid "Sustitución por nuevo"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/cellchip.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__taken
+#, python-format
+msgid "Taken"
+msgstr "Asignado"
+
+#. module: lgps
+#: model:ir.model,name:lgps.model_project_task
+msgid "Task"
+msgstr "Tarea"
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_cellchip__provider__telcel
+#: model_terms:ir.ui.view,arch_db:lgps.cellchip_search_view
+msgid "Telcel"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__temperature
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__temperature
+#, python-format
+msgid "Temperature"
+msgstr "Temperatura"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Term"
+msgstr "Plazo"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid "Tests"
+msgstr "Pruebas"
+
+#. module: lgps
+#: model:ir.model.constraint,message:lgps.constraint_lgps_accessory_history_name_unique
+#: model:ir.model.constraint,message:lgps.constraint_lgps_accessory_name_unique
+#: model:ir.model.constraint,message:lgps.constraint_lgps_device_history_name_unique
+msgid "The accessory id must be unique"
+msgstr "El identificador del accesorio debe ser único"
+
+#. module: lgps
+#: model:ir.model.constraint,message:lgps.constraint_lgps_cellchip_name_unique
+msgid "The cellchip id must be unique"
+msgstr "El identificador de la línea debe ser único"
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"The device does not have Warranty Start Date.\n"
+"Complete this first in order to process the Replacement Operation."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"The device does not have Warranty Start Date. \n"
+"Complete this first in order to process the Substitution Operation."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"The device does not have status COMODATO.\n"
+"Choose the right device or make sure the device status is correct to proceed."
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.constraint,message:lgps.constraint_lgps_dolar_history_name_unique
+msgid "The dolar history id must be unique"
+msgstr "El identificador debe ser único"
+
+#. module: lgps
+#: model:ir.model.constraint,message:lgps.constraint_lgps_gpsdevice_name_unique
+msgid "The gps device id must be unique"
+msgstr "El identificador del dispositivo debe ser único"
+
+#. module: lgps
+#: model:ir.model.constraint,message:lgps.constraint_lgps_platform_list_name_unique
+msgid "The gps platform name must be unique"
+msgstr "El identificador de la plataforma debe ser único"
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#, python-format
+msgid ""
+"The selected accessory does not have any gps devices associated.\n"
+"Cannot process any further."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"There is not configuration for default channel.\n"
+" Configure this in order to send the notification."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"There is not configuration for default commercial team.\n"
+" Configure this in order to create subscription successfully."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"There is not configuration for default current subscriptions stage.\n"
+"Configure this in order to send the notification."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#, python-format
+msgid ""
+"There is not configuration for default list price in RMA repairs.\n"
+" Configure this option first."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"There is not configuration for default price list.\n"
+" Configure this in order to create subscription successfully."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"There is not configuration for default service.\n"
+" Configure this in order to create subscription successfully."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"There is not configuration for default stage on new subscription.\n"
+"Configure this in order to send the notification."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid ""
+"There is not configuration for default user as responsable.\n"
+" Configure this in order to create subscription successfully."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.actions.act_window,name:lgps.action_counter_tickets_button
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__helpdesk_tickets_ids
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+#, python-format
+msgid "Tickets"
+msgstr "Tickets"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__assigned_tickets
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__tickets_count
+#, python-format
+msgid "Tickets Count"
+msgstr "Tickets"
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__days_suspended
+msgid "Time elapsed since the line was set to suspended expressed in days"
+msgstr "Tiempo transcurrido desde que la línea fue marcada como suspendida expresado en días"
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__last_report
+msgid "Time without reporting in platforms expressed in hours"
+msgstr "Tiempo sin reportar en plataformas expresado en horas"
+
+#. module: lgps
+#: model:ir.ui.menu,name:lgps.config_menu
+msgid "Tipo Cambio"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__tracking
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__tracking
+#, python-format
+msgid "Tracking"
+msgstr "Rastreo"
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__activity_exception_decoration
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__activity_exception_decoration
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__activity_exception_decoration
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__activity_exception_decoration
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__activity_exception_decoration
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__activity_exception_decoration
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__activity_exception_decoration
+msgid "Type of the exception activity on record."
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__wrecked_vehicle
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__wrecked_vehicle
+#, python-format
+msgid "Unidad siniestrada"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_accessory__status__uninstalled
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__device_status__uninstalled
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_gpsdevice__status__uninstalled
+#, python-format
+msgid "Uninstalled"
+msgstr "Desinstalado"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_unread
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_unread
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_unread
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_unread
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_unread
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_unread
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_unread
+msgid "Unread Messages"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__message_unread_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__message_unread_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__message_unread_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__message_unread_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__message_unread_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__message_unread_counter
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__message_unread_counter
+msgid "Unread Messages Counter"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__platform__utrax
+msgid "Utrax"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_search_view
+msgid "Vendidos"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_device_history__reason__vehicle_sold
+#: model:ir.model.fields.selection,name:lgps.selection__lgps_devices_operations_wizard__reason__vehicle_sold
+#, python-format
+msgid "Venta de Unidad"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__voice
+msgid "Voice"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Warranty"
+msgstr "Garantíaa"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__warranty_end_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__warranty_end_date
+#, python-format
+msgid "Warranty End Date"
+msgstr "érmino de Garantía"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_form_view
+#: model_terms:ir.ui.view,arch_db:lgps.gpsdevice_form_view
+msgid "Warranty Information"
+msgstr "Información de Garantía"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__warranty_start_date
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__warranty_start_date
+#, python-format
+msgid "Warranty Start Date"
+msgstr "Inicio de Garantía"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory.py:0
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__warranty_term
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__warranty_term
+#, python-format
+msgid "Warranty Term"
+msgstr "Plazo de Garantía"
+
+#. module: lgps
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory__website_message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__website_message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_cellchip__website_message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__website_message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_dolar_history__website_message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__website_message_ids
+#: model:ir.model.fields,field_description:lgps.field_lgps_platform_list__website_message_ids
+msgid "Website Messages"
+msgstr ""
+
+#. module: lgps
+#: model:ir.model.fields,help:lgps.field_lgps_accessory__website_message_ids
+#: model:ir.model.fields,help:lgps.field_lgps_accessory_history__website_message_ids
+#: model:ir.model.fields,help:lgps.field_lgps_cellchip__website_message_ids
+#: model:ir.model.fields,help:lgps.field_lgps_device_history__website_message_ids
+#: model:ir.model.fields,help:lgps.field_lgps_dolar_history__website_message_ids
+#: model:ir.model.fields,help:lgps.field_lgps_gpsdevice__website_message_ids
+#: model:ir.model.fields,help:lgps.field_lgps_platform_list__website_message_ids
+msgid "Website communication history"
+msgstr ""
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid "Who authorizes this request?"
+msgstr "¿Quién autoriza esta solicitud?"
+
+#. module: lgps
+#: code:addons/lgps/models/accessory_history.py:0
+#: code:addons/lgps/models/device_history.py:0
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessories_operations_wizard__related_odt
+#: model:ir.model.fields,field_description:lgps.field_lgps_accessory_history__related_odt
+#: model:ir.model.fields,field_description:lgps.field_lgps_device_history__related_odt
+#: model:ir.model.fields,field_description:lgps.field_lgps_devices_operations_wizard__related_odt
+#, python-format
+msgid "Work order related"
+msgstr "ODT Relacionada"
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid "You forgot to comment the reason for this process to run."
+msgstr "Olvidaste comentar la razón para ejecutar esta acción."
+
+#. module: lgps
+#: code:addons/lgps/wizard/accessories_operations_wizard.py:0
+#: code:addons/lgps/wizard/devices_operations_wizard.py:0
+#, python-format
+msgid "You forgot to select the Related ODT"
+msgstr "Olvidaste seleccionar la ODR relacionada a la operación."
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.accessory_list_action
+msgid "accessories"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_history_tree_view
+msgid "accessory_history Tree"
+msgstr "Listado de Operaciones en Accesorios"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.accessory_tree_view
+msgid "accessorys Tree"
+msgstr "Listado de Accesorios"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.device_history_tree_view
+msgid "device_history Tree"
+msgstr "Listado de Historia de los Dispositivos"
+
+#. module: lgps
+#: model:ir.actions.act_window,name:lgps.dolar_history_list_action
+msgid "dolar_history"
+msgstr "Histórico TC"
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.dolar_history_tree_view
+msgid "dolar_history Tree"
+msgstr "Histórico TC"
+
+#. module: lgps
+#: code:addons/lgps/models/gpsdevice.py:0
+#: model:ir.model.fields,field_description:lgps.field_lgps_gpsdevice__ibutton
+#, python-format
+msgid "iButton"
+msgstr ""
+
+#. module: lgps
+#: model_terms:ir.ui.view,arch_db:lgps.view_accessories_operations_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_common_operations_device_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.view_mass_device_comment_wizard
+#: model_terms:ir.ui.view,arch_db:lgps.wizard_form_view
+msgid "or"
+msgstr ""

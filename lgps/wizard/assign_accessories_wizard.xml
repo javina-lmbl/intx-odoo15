@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+  <record model="ir.ui.view" id="wizard_form_view">
+    <field name="name">wizard.form</field>
+    <field name="model">lgps.assign.accessories.wizard</field>
+    <field name="arch" type="xml">
+      <form string="Add Accessories">
+        <group>
+          <field name="accessory_ids"/>
+        </group>
+        <footer>
+          <button name="assign" type="object" string="Assign" class="oe_highlight"/>
+          or
+          <button special="cancel" string="Cancel"/>
+        </footer>
+      </form>
+    </field>
+  </record>
+
+  <record id="launch_accessories_wizard" model="ir.actions.act_window">
+    <field name="name">Add Accessories</field>
+    <field name="res_model">lgps.assign.accessories.wizard</field>
+    <field name="view_mode">form</field>
+    <field name="binding_model_id" ref="model_lgps_gpsdevice" />
+    <field name="binding_view_types">form,list</field>
+    <field name="target">new</field>
+  </record>
+
+</odoo>
